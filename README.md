@@ -10,4 +10,3 @@ This site uses called template [DevAid](http://themes.3rdwavemedia.com/website-t
 * Changed favicon to the MailSlurper mail gopher
 * Removed Facebook JavaScript
 * Changed titles, wording, and links, obviously
-*
